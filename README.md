@@ -140,7 +140,7 @@
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/motion-masterpiece.git
+git clone https://github.com/d-ghosh717/motion-masterpiece.git
 cd motion-masterpiece
 npm install
 npm run dev
@@ -155,21 +155,6 @@ npm run preview
 
 ---
 
-## 🗂️ Structure
-
-```bash
-src/
-├── components/
-├── sections/
-├── pages/
-├── store/
-├── data/
-├── utils/
-├── App.jsx
-├── main.jsx
-```
-
----
 
 ## ⚡ Performance
 
@@ -229,24 +214,6 @@ extend: {
     secondary: '#ECD06F'
   }
 }
-```
-
----
-
-## 🚀 Deployment
-
-### Vercel
-
-```bash
-npm run build
-vercel --prod
-```
-
-### Netlify
-
-```bash
-npm run build
-netlify deploy --prod
 ```
 
 ---
