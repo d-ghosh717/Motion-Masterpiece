@@ -11,13 +11,6 @@
 
 ---
 
-## ✨ Live Demo
-
-* 🌐 https://motion-masterpiece.vercel.app
-* 📚 Docs: https://github.com/yourusername/motion-masterpiece/wiki
-
----
-
 ## 📖 Overview
 
 **Motion Masterpiece** is a React-based animation showcase and developer toolkit featuring interactive UI patterns, 3D effects, and production-ready code snippets.
